@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomasCajan
 - 👀 I’m working on becomming a Junior Data Scientist
-- 🌱 I’m currently learning classification machine learning tools
+- 🌱 My current goal is expanding the portfolie for more projects and learn lots of things along the way
 - 💞️ I’m looking to collaborate on anything related to Data Science :-)
 - 📫 You can reach me at tomas.cajan23@gmail.com
 
