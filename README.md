@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomasCajan
 - 👀 I’m working on becomming a Junior Data Scientist
-- 🌱 My current goal is expanding the portfolie for more projects and learn lots of things along the way
+- 🌱 My current goal is expanding the portfolio for more projects and learn lots of things along the way
 - 💞️ I’m looking to collaborate on anything related to Data Science :-)
 - 📫 You can reach me at tomas.cajan23@gmail.com
 
